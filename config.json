@@ -1,13 +1,6 @@
 {
-    "repo_path": "~/path/to/your/repo",
+    "remote_url": "git@github-simplegit:crambo70/DEV_PROJ_TEST.git",
+    "repo_path": "/Users/cmoredock/Documents/LOCAL_WEB_SITE",
     "branch": "main",
-    "files": [
-        "notes.txt",
-        "readme.txt"
-    ],
-    "folders": [
-        "images/photos",
-        "images/icons"
-    ],
-    "commit_message": "Update files via Simple Git"
+    "commit_message": "Update portfolio via Simple Git"
 }
