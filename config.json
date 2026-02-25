@@ -1,0 +1,13 @@
+{
+    "repo_path": "~/path/to/your/repo",
+    "branch": "main",
+    "files": [
+        "notes.txt",
+        "readme.txt"
+    ],
+    "folders": [
+        "images/photos",
+        "images/icons"
+    ],
+    "commit_message": "Update files via Simple Git"
+}
